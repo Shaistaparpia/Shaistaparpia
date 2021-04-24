@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shaistaparpia
+- 👋 Hi, I’m Shaista Parpia
 - 👀 I’m interested in html, js, python.
 - 📫 Reach me on shaistaparpia@gmail.com
 
