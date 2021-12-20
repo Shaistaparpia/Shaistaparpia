@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api username=Shaistaparpia $theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Shaistaparpia&theme=radical)
