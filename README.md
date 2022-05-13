@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shaista Parpia
-- 👀 I’m interested in html, js, python.
+- 👀 I’m interested in html, js, python, C#.
 - 📫 Reach me on shaistaparpia@gmail.com
 
 <!---
